@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="albumResourceId">
+        <item>@drawable/album_1</item>
+        <item>@drawable/album_2</item>
+        <item>@drawable/album_3</item>
+        <item>@drawable/album_4</item>
+        <item>@drawable/album_5</item>
+        <item>@drawable/album_6</item>
+        <item>@drawable/album_7</item>
+        <item>@drawable/album_8</item>
+        <item>@drawable/album_9</item>
+        <item>@drawable/album_10</item>
+        <item>@drawable/album_11</item>
+        <item>@drawable/album_12</item>
+        <item>@drawable/album_13</item>
+        <item>@drawable/album_14</item>
+        <item>@drawable/album_15</item>
+        <item>@drawable/album_16</item>
+        <item>@drawable/album_17</item>
+        <item>@drawable/album_18</item>
+        <item>@drawable/album_19</item>
+        <item>@drawable/album_20</item>
+        <item>@drawable/album_21</item>
+        <item>@drawable/album_22</item>
+        <item>@drawable/album_23</item>
+        <item>@drawable/album_24</item>
+        <item>@drawable/album_25</item>
+    </integer-array>
+
+</resources>
